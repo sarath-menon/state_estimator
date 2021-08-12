@@ -1,0 +1,5 @@
+# ninja log v5
+0	94	1628799485701905640	CMakeFiles/math_engine.dir/src/backward_difference.cpp.o	277b7ea6e9495231
+95	168	1628799485777591000	libmath_engine.a	784ccf7823fcbed
+0	74	1628799789145338610	CMakeFiles/math_engine.dir/src/backward_difference.cpp.o	277b7ea6e9495231
+74	143	1628799789222993000	libmath_engine.a	784ccf7823fcbed
